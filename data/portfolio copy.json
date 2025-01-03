@@ -1,10 +1,10 @@
 {
-  "name": "Bhuvan Amaravathi",
+  "name": "Chetan",
   "header": {
     "taglineOne": "Hello 👋",
-    "taglineTwo": "I'm Bhuvan Amaravathi - curious",
+    "taglineTwo": "I'm Chetan Verma - curious",
     "taglineThree": "designer and developer",
-    "taglineFour": "based in Bengaluru, India.",
+    "taglineFour": "based in New Delhi, India.",
     "showCursor": true,
     "showBlog": true,
     "darkMode": true,
@@ -40,17 +40,45 @@
   "projects": [
     {
       "id": "1",
-      "title": "GAT - AIML",
-      "description": "Department Web page to share resources built with React.js. Features include allowing users to get details of the events and supporting users.",
+      "title": "Project One Test",
+      "description": "Web Design",
       "imageSrc": "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://example.com/"
+      "url": "http://chetanverma.com/"
     },
     {
       "id": "2",
-      "title": "IEEE COMPUTER SOCIETY - GAT",
-      "description": "Computer society Web page to share resources built with React.js. Features include allowing users to get details of the events and supporting users.",
+      "title": "Project Two",
+      "description": "Web Development",
       "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://example.com/"
+      "url": "http://chetanverma.com/"
+    },
+    {
+      "id": "3",
+      "title": "Project Three",
+      "description": "Design",
+      "imageSrc": "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "http://chetanverma.com/"
+    },
+    {
+      "id": "4",
+      "title": "Project Four",
+      "description": "Marketing",
+      "imageSrc": "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "http://chetanverma.com/"
+    },
+    {
+      "id": "5",
+      "title": "Project Five",
+      "description": "Development",
+      "imageSrc": "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "http://chetanverma.com/"
+    },
+    {
+      "id": "6",
+      "title": "Project Six",
+      "description": "Design & Development",
+      "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "http://chetanverma.com/"
     }
   ],
   "services": [
@@ -76,11 +104,11 @@
     }
   ],
   "about": {
-    "paragraph": "Hi Everyone, I am Bhuvan Amaravathi from Bengaluru, India. I am currently studying in BE-AIML at Global Academy Of Technology, Bengaluru. Apart from coding, some other activities that I love to do include being a good speaker and writing tech blogs. 'Strive to build things that make a difference!'"
+    "paragraph": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
   },
   "resume": {
     "tagline": "👋  I'm a software engineer, product designer.",
-    "description": "I fell in love with programming and I have at least learnt something, I think… 🤷‍♂️ I am fluent in classics like C, C++, Python, and Javascript. My field of interest lies in building new Web Technologies and Products and also in areas related to Apps. Whenever possible, I also apply my passion for developing products with Node.js and Modern Javascript Libraries and Frameworks like React.js and Next.js.",
+    "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
     "experiences": [
       {
         "id": "1",
@@ -98,13 +126,13 @@
       }
     ],
     "education": {
-      "universityName": "Global Academy of Technology, Bengaluru",
-      "universityDate": "2020-Present",
-      "universityPara": "Studying BE-AIML with a focus on developing skills in Web Technologies, Machine Learning, and Product Development."
+      "universityName": "University X",
+      "universityDate": "2016-2020",
+      "universityPara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
     },
     "skills": {
-      "languages": ["C", "C++", "Python", "Javascript"],
-      "frameworks": ["React.js", "Next.js", "Node.js"],
+      "languages": ["Javascript", "HTML5", "CSS", "Python", "Go"],
+      "frameworks": ["React", "Typescript", "NodeJs"],
       "others": ["Figma", "AdobeXD", "AWS"]
     }
   }
